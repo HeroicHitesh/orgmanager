@@ -1,3 +1,4 @@
+Testing Heroku auto-deployment
 <img alt="OrgManager" src="/docs/images/orgmanager.png">
 
 [![Build Status](https://travis-ci.org/fossasia/orgmanager.svg?branch=master)](https://travis-ci.org/fossasia/orgmanager)
